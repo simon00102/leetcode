@@ -1,0 +1,10 @@
+C:/Users/simon/source/repos/leetcode/build/CMakeFiles/test.dir
+C:/Users/simon/source/repos/leetcode/build/CMakeFiles/edit_cache.dir
+C:/Users/simon/source/repos/leetcode/build/CMakeFiles/rebuild_cache.dir
+C:/Users/simon/source/repos/leetcode/build/src/CMakeFiles/test2.dir
+C:/Users/simon/source/repos/leetcode/build/src/CMakeFiles/main.dir
+C:/Users/simon/source/repos/leetcode/build/src/CMakeFiles/edit_cache.dir
+C:/Users/simon/source/repos/leetcode/build/src/CMakeFiles/rebuild_cache.dir
+C:/Users/simon/source/repos/leetcode/build/src/p2/CMakeFiles/p2.dir
+C:/Users/simon/source/repos/leetcode/build/src/p2/CMakeFiles/edit_cache.dir
+C:/Users/simon/source/repos/leetcode/build/src/p2/CMakeFiles/rebuild_cache.dir
